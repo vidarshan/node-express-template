@@ -1,0 +1,23 @@
+{
+  "name": "express-template",
+  "version": "1.0.0",
+  "description": "Node JS/ Express JS API template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidarshanadithya/node-express-template.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Vidarshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidarshanadithya/node-express-template/issues"
+  },
+  "homepage": "https://github.com/vidarshanadithya/node-express-template#readme"
+}
